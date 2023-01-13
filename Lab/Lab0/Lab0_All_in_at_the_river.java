@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab0_All_in_at_the_river {
+public class lab2 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String ZJ= input.next();

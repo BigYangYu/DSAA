@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Lab0_3D_Print {
+public class lab1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int  number1 = input.nextInt();
