@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab12 {
+public class Lab1_Counting_Triples {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int many = input.nextInt();

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab5 {
+public class Lab0_Mahjong {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();

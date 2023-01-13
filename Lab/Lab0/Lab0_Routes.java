@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab3 {
+public class Lab0_Routes {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
       long x1 = input.nextLong();

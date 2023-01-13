@@ -3,7 +3,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class lab13 {
+public class Lab1_Moon_Cake {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int people = input.nextInt();

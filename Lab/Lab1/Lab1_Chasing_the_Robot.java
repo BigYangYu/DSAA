@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab14 {
+public class Lab1_Chasing_the_Robot {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         long xr = input.nextLong();

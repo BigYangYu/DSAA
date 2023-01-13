@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab11 {
+public class Lab1_Simple_Problem {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int length = input.nextInt();
